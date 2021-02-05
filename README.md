@@ -14,7 +14,7 @@ make install
 
 ## Use
 ```
-pomdoro
+$ pomdoro
 For how many minutes?: 25
 Which taskwarrior task ID?: 1
 You want to run task: My Taskwarrior Task

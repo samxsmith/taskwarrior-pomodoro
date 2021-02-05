@@ -8,7 +8,7 @@ A simple pomodoro tool for task warrior.
 
 ## Install
 ```
-git clone
+git clone git@github.com:samxsmith/taskwarrior-pomodoro.git
 make install
 ```
 
